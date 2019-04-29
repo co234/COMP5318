@@ -2,6 +2,6 @@
 
 We will use "groups" in Canvas for assignment 2
 
-Please login to **Canvas** => click on **"People"** => **"Project Groups Assignment 2"** => choose a group number 
+Please login to **Canvas** => click on **"People"** => **"Groups"** => choose a group number 
 
 There are 100 empty groups available to choose. 
